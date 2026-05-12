@@ -13,10 +13,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHADOWXBOOSTER&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-</div>
-
 ---
 
 ## 🧑‍💻 &nbsp; Who Am I?
