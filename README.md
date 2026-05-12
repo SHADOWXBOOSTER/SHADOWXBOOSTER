@@ -116,6 +116,6 @@ currently   : Building OCR pipelines & Java desktop systems
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0A0E1A,100:06070D&height=100&section=footer)
 
-**B.E. Computer Science · BITS Pilani, Dubai Campus · Class of 2028**
+**B.E. Computer Science · BITS Pilani, Dubai Campus**
 
 </div>
