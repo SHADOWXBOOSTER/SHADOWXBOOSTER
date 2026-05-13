@@ -58,7 +58,7 @@ currently   : Building OCR pipelines & Java desktop systems
 <td width="50%" valign="top">
 
 ### 📄 OCR Bank Statement Extraction
-> *Personal Project — Advanced OCR Pipeline*
+> *Demo Project — Advanced OCR Pipeline*
 
 - 🔀 Hybrid: **Camelot** (bordered) + **DBSCAN clustering** (borderless)
 - ⚡ **3× faster** with parallel processing & MD5 page caching
