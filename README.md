@@ -119,3 +119,10 @@ currently   : Building OCR pipelines & Java desktop systems
 **B.E. Computer Science · BITS Pilani, Dubai Campus**
 
 </div>
+
+
+<a href="https://ay-azure.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/⚔️_Enter_the_Portfolio_Galaxy-112240?style=for-the-badge&logo=vercel&logoColor=64FFDA&labelColor=06070D&color=00D9FF" />
+</a>
+
+</div>
